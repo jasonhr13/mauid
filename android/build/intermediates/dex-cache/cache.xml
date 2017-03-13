@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/jason/apps/Wedding/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/Users/jason/apps/Wedding/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-0.11.0_f22a92c9c926a93a616e266b4b6dda4e5eb0cfb8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jason/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/jason/apps/Wedding/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1_9ee8e3df0024735b7001d0fdbce363955709068b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jason/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/jason/apps/Wedding/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1_ea1fe225c298c09a72560bf7d10fd43066e0580e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jason/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/jason/apps/Wedding/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_a1b4fa3277de77a30c8aa3b6fa00097d31235e26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jason/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/jason/apps/Wedding/android/app/build/intermediates/pre-dexed/debug/library-2.4.0_5907e7934142fae025946ffad572a0359e889633.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jason/apps/Wedding/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d08bb32b88df3dbcbe1d498c3c57f020b8c521ec">
+        <dex dex="/Users/jason/apps/Wedding/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-10.2.0_5ad2648ce63463a014d6876fa44cb472e94ced67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jason/apps/Wedding/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="421a5cebe9ff187c98075c59786e9464c5c67d36">
+        <dex dex="/Users/jason/apps/Wedding/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-iid-10.2.0_bb3ee810a8528c2eee93b1c96480a20dd086c2cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jason/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/jason/apps/Wedding/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_8bcef5c3b9a340b28ddbe4ece65cb8d3cccbb085.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jason/apps/Wedding/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-v4-impl/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8438c64f9eb581429dc592f7c9b3156a3d071653">
+        <dex dex="/Users/jason/apps/Wedding/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tagmanager-v4-impl-10.2.0_fd8b0b88c00fc9cedaebd2368dff290d705ab4ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jason/apps/Wedding/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.42.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="962b06c207e808c0557ffd6163ac584025a96021">
+        <dex dex="/Users/jason/apps/Wedding/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.42.0_2bcf9f401cf27ca0ee73ed6a3e6e1ded3b8b4b09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jason/apps/Wedding/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ca82d5800780b1d53f0f9ab43678d8634a34cddc">
+        <dex dex="/Users/jason/apps/Wedding/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-impl-10.2.0_9b09026b969d4c4d64c409be28550e6d7e3ba3dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jason/apps/Wedding/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ea03bbfaed89818f233ee9918fac493f2b63895a">
+        <dex dex="/Users/jason/apps/Wedding/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-10.2.0_8247e6cae621770418c8404cd9506ca72752a9a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jason/apps/Wedding/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/Users/jason/apps/Wedding/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-0.11.0_ce03bebe0b68004aecc9253a750ae2d62a8e0259.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jason/apps/Wedding/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/jason/apps/Wedding/android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.4.0_c4e2f0fc1da4122cf34428a9b141e151c73691a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jason/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/jason/apps/Wedding/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0_8e52394bfd07f6510b6c51b76f9bd5bf768cfc2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jason/apps/Wedding/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/jason/apps/Wedding/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_6de31edf74d8c68d01293fd44305124250781e2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jason/apps/Wedding/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/jason/apps/Wedding/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_debedd074e58ed3aa0da4f836bae00a738f05ac5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jason/apps/Wedding/android/app/build/intermediates/exploded-aar/Maui&apos;d/react-native-onesignal/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a57ca9c44af681991980a6e5f612613c2756902b">
+        <dex dex="/Users/jason/apps/Wedding/android/app/build/intermediates/pre-dexed/debug/Maui&apos;d-react-native-onesignal-unspecified_8c060f7a4228a14130b5139065887d0bc16b7182.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jason/apps/Wedding/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/jason/apps/Wedding/android/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_328a562b3c5f1f62e334733e8e53280c1d959bfd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jason/apps/Wedding/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="/Users/jason/apps/Wedding/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.2.0_5f2ec34a6a799fa949eb1312879e540114887eb3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jason/apps/Wedding/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/Users/jason/apps/Wedding/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-0.11.0_0a922e0b8d67b34d2f91717a7c1d3371d34f2a70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jason/apps/Wedding/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/jason/apps/Wedding/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_62b3a958af238c3b96dd1562e26458ab09da764b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jason/apps/Wedding/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="/Users/jason/apps/Wedding/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.2.0_b68124ba7bfd50316d5241766a2db1d0dfd73d10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jason/apps/Wedding/android/app/build/intermediates/exploded-aar/com.onesignal/OneSignal/3.4.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0e6ecaea1e8dd0d0aaecd71034334ea288d2dfeb">
+        <dex dex="/Users/jason/apps/Wedding/android/app/build/intermediates/pre-dexed/debug/com.onesignal-OneSignal-3.4.3_02df69174e02cf1efa0c05e14e3b6f20c5ffec94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jason/apps/Wedding/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/Users/jason/apps/Wedding/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-0.11.0_055638fc124e88a8478c4b7082dd38d71265363d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jason/apps/Wedding/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/Users/jason/apps/Wedding/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-0.11.0_5d005314737586bfa977b3f204be7e94cbd0bfc3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jason/apps/Wedding/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/jason/apps/Wedding/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_fc8f46f25863ad45123fea847bb0a72c999be32c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jason/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/jason/apps/Wedding/android/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_632bd3f4f5dd86af5265e720356001ad47366f61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jason/apps/Wedding/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="/Users/jason/apps/Wedding/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.2.0_d841df7e2586ac75c174e454f1032b8419db692f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jason/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/jason/apps/Wedding/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_02e08d091221bf4d6c6f6689eb288611e45f9dc1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jason/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/jason/apps/Wedding/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_d2bee8aef7a080c238e009b622518a29f9df40cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jason/apps/Wedding/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="68485f21eeb5d6c9ed82c445d520b9fc81c87108">
+        <dex dex="/Users/jason/apps/Wedding/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-10.2.0_e26578bd52b3dfd5ad13abd7237fcfa19952a2ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jason/apps/Wedding/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.42.0/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/Users/jason/apps/Wedding/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5_206c9178c66afbe96ad9bb2df7a8254a1367756b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jason/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/jason/apps/Wedding/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_0f4b26273b85999cffbdb6eb25893c7992e1dd2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jason/apps/Wedding/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/Users/jason/apps/Wedding/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-0.11.0_636eaa102c7c9c8b67d7c40e4fbf383d4088f6fe.jar" />
+    </item>
+
+</items>
