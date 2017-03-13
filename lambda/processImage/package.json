@@ -1,0 +1,16 @@
+{
+  "name": "processimage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "processImage.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jimp": "^0.2.27",
+    "node-uuid": "^1.4.7",
+    "parse": "^1.9.2"
+  }
+}
